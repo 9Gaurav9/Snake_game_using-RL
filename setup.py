@@ -8,7 +8,7 @@ setup(
     description='A Snake game AI using Deep Q-Learning',
     author='Your Name',
     author_email='gaurav@gaurav.com',
-    url='https://github.com/9Gaurav9/snake_rl',  # Update with your GitHub repo URL
+    url='https://github.com/9Gaurav9/snake_rl',  
     packages=find_packages(),
     install_requires=[
         'numpy',
